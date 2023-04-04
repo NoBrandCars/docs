@@ -5,6 +5,6 @@
 
 ## Reference
 
-* [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
+* [🏎 Rocket League](reference/rocket-league/README.md)
+  * [Pets](reference/rocket-league/pets.md)
+  * [Users](reference/rocket-league/users.md)
