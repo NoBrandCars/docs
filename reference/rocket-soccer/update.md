@@ -12,6 +12,20 @@ Updates for all our scripts are free of charge!
 
 <details>
 
+<summary>Update 1.0.3</summary>
+
+* Added more options to the API.
+* API now allows for calls to [objects](exports-api-communication.md#spawn-a-object).
+* API now allows for calls for [vehicles](exports-api-communication.md#spawn-a-vehicle).
+* Added Authentication for API Server.
+* Games are now streamable over web.
+* The octane car is now included in the ressource.
+* Smaller tweaks & fixxes.
+
+</details>
+
+<details>
+
 <summary>Update 1.0.2</summary>
 
 * **Fixxed issue** when a player receives a game-crash when beeing in a round of Rocket-Soccer. _(Round would not end correctly)._

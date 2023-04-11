@@ -279,7 +279,7 @@ An entity of the type [Vehicle](https://docs.fivem.net/docs/scripting-manual/net
 {% endtab %}
 {% endtabs %}
 
-#### <mark style="color:red;">Spawn a Object</mark>
+#### <mark style="color:red;">Spawn a object</mark>
 
 {% tabs %}
 {% tab title="Example (11)" %}
