@@ -1,21 +1,13 @@
 # Welcome!
 
-## Welcome to MyAPI
+## Welcome to No Brand Cars Documentation
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+Make sure to visit our [Discord-Server](https://discord.gg/S8Xq7JwNgg)!
 
-## Want to jump right in?
+## Catalogue
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
-
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
+{% content-ref url="reference/rocket-soccer/" %}
+[rocket-soccer](reference/rocket-soccer/)
 {% endcontent-ref %}
 
-## Want to deep dive?
-
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
-
-{% content-ref url="reference/rocket-league/" %}
-[rocket-league](reference/rocket-league/)
-{% endcontent-ref %}
+<figure><img src=".gitbook/assets/logo_transparent.png" alt=""><figcaption></figcaption></figure>
