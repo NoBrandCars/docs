@@ -12,6 +12,18 @@ Updates for all our scripts are free of charge!
 
 <details>
 
+<summary>Update 1.0.4</summary>
+
+* NPC-PED logic is now handled clientside rather then serverside to prevent despawn of NPC's.
+* [Authentification ](../authentication-server.md)added for our own [Discord Bot](../discord-bot.md).
+* Fixxed a ConVar error which had no impact on script functionality, but hey now its gone.
+
+#### Its important to update your [settings.lua](settings.md) from the last update!
+
+</details>
+
+<details>
+
 <summary>Update 1.0.3</summary>
 
 * Added more options to the API.
@@ -39,7 +51,7 @@ Updates for all our scripts are free of charge!
 
 <summary>Update 1.0.1</summary>
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 Performance improvement from 0.03 to 0.00 ms in idle (Outside [Maze Bank Arena](https://fivem.gabzv.com/package/5567774))
 
