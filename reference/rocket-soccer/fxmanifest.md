@@ -14,6 +14,7 @@ server_script {
     'server.lua',
     'http.lua'
 }
+
 client_script 'client.lua'
 
 shared_scripts {
