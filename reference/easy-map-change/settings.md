@@ -12,6 +12,7 @@ Settings = {
     },
     Command = "changemap",
     Standard = "CURLING",
+    Wait = 500,
     Console = true
 }
 ```

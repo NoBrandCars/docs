@@ -12,8 +12,8 @@ Invite the "No Brand Cars" discord bot [here](https://discord.com/oauth2/authori
 
 {% embed url="https://www.youtube.com/watch?v=OdlK55LZb60" %}
 
-| Command |   |   |
-| ------- | - | - |
-|         |   |   |
-|         |   |   |
-|         |   |   |
+| Command | Function                                                                           |
+| ------- | ---------------------------------------------------------------------------------- |
+| auth    | Connects your FiveM server to your Discord server                                  |
+| map     | Changes the current map of the Maze Bank Arena ([EasyMapChange](easy-map-change/)) |
+| script  | Manages your scripts (EventMode, ...)                                              |
