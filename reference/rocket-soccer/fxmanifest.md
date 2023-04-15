@@ -8,7 +8,7 @@ game 'gta5'
 
 name 'RocketSoccer'
 author 'NoBrandCars'
-version '1.0.3'
+version '1.0.4'
 
 server_script {
     'server.lua',

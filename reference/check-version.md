@@ -6,5 +6,5 @@ To check the version of your script simply open [fxmanifest.lua](rocket-soccer/f
 
 | Script          | Version                                       |
 | --------------- | --------------------------------------------- |
-| Rocket Soccer   | [1.0.](rocket-soccer/update.md#update-1.0.3)3 |
+| Rocket Soccer   | [1.0.4](rocket-soccer/update.md#update-1.0.4) |
 | Easy Map Change | [1.0.0](easy-map-change/update.md)            |

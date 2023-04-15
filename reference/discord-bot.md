@@ -8,6 +8,12 @@ Invite the "No Brand Cars" discord bot [here](https://discord.com/oauth2/authori
 
 > Enter the following command into the FiveM server console:
 >
-> discord <[server id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)>
+> linkDiscord <[server id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)>
 
 {% embed url="https://www.youtube.com/watch?v=OdlK55LZb60" %}
+
+| Command |   |   |
+| ------- | - | - |
+|         |   |   |
+|         |   |   |
+|         |   |   |
