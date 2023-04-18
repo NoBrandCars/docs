@@ -8,7 +8,7 @@ game 'gta5'
 
 name 'RocketSoccer'
 author 'NoBrandCars'
-version '1.0.4'
+version '1.0.5'
 
 server_script {
     'server.lua',
@@ -25,7 +25,7 @@ shared_scripts {
 files {
     "nui/*.*",
     "nui/sounds/*.*",
-    "data/*.*"
+    "data/**/*.*"
 }
 
 ui_page "nui/index.html"

@@ -12,6 +12,24 @@ Updates for all our scripts are free of charge!
 
 <details>
 
+<summary>Update 1.0.5</summary>
+
+* Most wished change implemented: **50% smaller Octane!** (included for free)
+* Readjusted the **jump** function to adapt the new vehicle size
+* Readjusted the **drift** function to adapt the new vehicle size
+* Readjusted the **boost** function to adapt the new vehicle size
+* Implemented choice to choose either **2D- or 3D-text**
+* Discord Bot now supports **event-mode**
+* Discord Bot now supports **adding** players to queue
+* Discord Bot now supports **remove** players from queue
+* Optimized reset ball logic to reset ball in case it leaves the playing field
+
+#### Its important to update your [settings.lua](settings.md) from the last update!
+
+</details>
+
+<details>
+
 <summary>Update 1.0.4</summary>
 
 * NPC-PED logic is now handled clientside rather then serverside to prevent despawn of NPC's.

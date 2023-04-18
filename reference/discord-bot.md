@@ -17,3 +17,23 @@ Invite the "No Brand Cars" discord bot [here](https://discord.com/oauth2/authori
 | auth    | Connects your FiveM server to your Discord server                                  |
 | map     | Changes the current map of the Maze Bank Arena ([EasyMapChange](easy-map-change/)) |
 | script  | Manages your scripts (EventMode, ...)                                              |
+
+#### Firewall
+
+{% hint style="info" %}
+Make sure that the following IP addresses are allowed in the firewall to prevent timeouts
+{% endhint %}
+
+| Server        | IP            | Usage                         |
+| ------------- | ------------- | ----------------------------- |
+| HETZNER NBC-1 | 128.140.38.32 | POST requests to FiveM server |
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-04-18 234700.png" alt=""><figcaption><p>Timeout when performing an action</p></figcaption></figure>
+
+#### Permissions
+
+{% hint style="info" %}
+By default, users in the Discord server with administrator rights can use the commands.
+
+[To create / change your own permissions follow these instructions from Discord](https://support.discord.com/hc/en-us/articles/4644915651095-Command-Permissions)
+{% endhint %}

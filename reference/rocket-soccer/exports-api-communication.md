@@ -125,7 +125,7 @@ queue[team][source] = true
 {% tabs %}
 {% tab title="Example (6)" %}
 ```lua
-exports["RocketSoccer"]:AddPlayerToQueue(source, team, force)
+exports["RocketSoccer"]:AddPlayerToQueue(source, team, force, player)
 ```
 {% endtab %}
 
@@ -135,6 +135,7 @@ exports["RocketSoccer"]:AddPlayerToQueue(source, team, force)
 | source | int                                                                                                               |
 | team   | string (<mark style="background-color:blue;">blue</mark> or <mark style="background-color:orange;">orange</mark>) |
 | force  | boolean                                                                                                           |
+| player | int (discord user id)                                                                                             |
 {% endtab %}
 
 {% tab title="Manipulation (6)" %}
@@ -183,14 +184,15 @@ Change the return of the function to change the logic:
 {% tabs %}
 {% tab title="Example (8)" %}
 ```lua
-exports["RocketSoccer"]:RemovePlayerFromQueue(source)
+exports["RocketSoccer"]:RemovePlayerFromQueue(source, player)
 ```
 {% endtab %}
 
 {% tab title="Parameters (8)" %}
-| Name   | Type |
-| ------ | ---- |
-| source | int  |
+| Name   | Type                  |
+| ------ | --------------------- |
+| source | int                   |
+| player | int (discord user id) |
 {% endtab %}
 
 {% tab title="Manipulation (8)" %}

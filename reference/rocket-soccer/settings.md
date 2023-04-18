@@ -1,7 +1,5 @@
 # Settings
 
-
-
 ```lua
 Settings = {
     Ball = vec3(-324.1383, -1968.5367, 21.3),            -- Ball Spawn
@@ -19,18 +17,18 @@ Settings = {
     },
     Peds = {                                            -- Ped Spawn
         Blue = {
-            vector = vector4(-293.5027, -1924.0889, 30.1457, 234.9576),
+            vector = vector4(-293.5027, -1924.0889, 29.1457, 234.9576),
             model = "a_m_y_motox_02"
         },
         Orange = {
-            vector = vector4(-286.0806, -1930.2833, 30.1457, 61.4075),
+            vector = vector4(-286.0806, -1930.2833, 29.1457, 61.4075),
             model = "a_m_y_motox_01"
         }
     },
     Vehicles = {                                        -- Vehicle Spawn
         Blue = {
             vector = vector4(-313.3335, -1977.5653, 20.7550, 53.1432),  -- Spawnpoint for each round
-            model = "rroctane",                         -- Dont change
+            model = "minioctane",                       -- if you want bigger octane fill in "rroctane"
             invincible = true,                          -- true = no damage to vehicle
             plate = {
                 text = "ROCKET",
@@ -39,7 +37,7 @@ Settings = {
         },
         Orange = {
             vector = vector4(-335.1695, -1959.1554, 20.7561, 228.0790), -- Spawnpoint for each round
-            model = "rroctane",                         -- Dont change
+            model = "minioctane",                       -- if you want bigger octane fill in "rroctane"
             invincible = true,                          -- true = no damage to vehicle
             plate = {
                 text = "ROCKET",
@@ -67,18 +65,18 @@ Settings = {
                 return true
             end
         end,
-        AddPlayerToQueue = function(source, team, force) -- Add player to queue
+        AddPlayerToQueue = function(source, team, force, player) -- Add player to queue
             if Settings.API.IsPlayerAllowed(source) or force then
                 queue[team][source] = true
                 return true
             end
-
+            
             return false
         end,
         IsPlayerInQueue = function(source)              -- Check if a player is in queue
             return queue.blue[source] or queue.orange[source]
         end,
-        RemovePlayerFromQueue = function(source)        -- Change logic to remove players or handle this as event
+        RemovePlayerFromQueue = function(source, player)        -- Change logic to remove players or handle this as event
             queue.blue[source] = nil
             queue.orange[source] = nil
         end,
@@ -109,6 +107,7 @@ Settings = {
     DebugMode = false,                                   --Leave this false! If you need support we will tell you to switch this to true. If true will do extensive loggin in client & server console!
     EventMode = false,                                   --If you wish to disable the queue and allow queue only for Admins.
     Console = true,
+    Use3DText = true,
     --Effects
     BoostFX = {
         Active = true,
