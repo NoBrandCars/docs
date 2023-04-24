@@ -27,7 +27,7 @@ exports["EasyMapChange"]:ChangeMap(map, player)
 {% endtab %}
 
 {% tab title="Manipulation (1)" %}
-IIf <mark style="background-color:orange;">false</mark> is returned, the code is interrupted and the **map** is **not changed**.
+If <mark style="background-color:orange;">false</mark> is returned, the code is interrupted and the **map** is **not changed**.
 
 If it is set to <mark style="background-color:green;">true</mark>, the complete code will continue and the **map will change**.
 {% endtab %}
