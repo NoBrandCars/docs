@@ -21,11 +21,11 @@ _These two functions have to be set by yourself (e.g. xPlayer.getJob() == x)_
 #### <mark style="color:red;">Emergency vehicle</mark>
 
 {% tabs %}
-{% tab title="Sprite" %}
+{% tab title="Sprite (1)" %}
 <figure><img src="https://docs.fivem.net/blips/radar_police.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Example" %}
+{% tab title="Example (1)" %}
 ```lua
 {
     IsPlayerAllowedToShow = function (entity, player)
@@ -55,11 +55,11 @@ _These two functions have to be set by yourself (e.g. xPlayer.getJob() == x)_
 #### <mark style="color:red;">Emergency helicopter</mark>
 
 {% tabs %}
-{% tab title="Sprite" %}
+{% tab title="Sprite (2)" %}
 <figure><img src="https://docs.fivem.net/blips/radar_police_heli_spin.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Example" %}
+{% tab title="Example (2)" %}
 ```lua
 {
     IsPlayerAllowedToShow = function (entity, player)
@@ -87,11 +87,11 @@ _These two functions have to be set by yourself (e.g. xPlayer.getJob() == x)_
 #### <mark style="color:red;">Visible parachutes</mark>
 
 {% tabs %}
-{% tab title="Sprite" %}
+{% tab title="Sprite (3)" %}
 <figure><img src="https://docs.fivem.net/blips/radar_parachute.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Example" %}
+{% tab title="Example (3)" %}
 ```lua
 {
     IsPlayerAllowedToShow = function (entity, player)
