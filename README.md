@@ -14,4 +14,8 @@ Make sure to visit our [Discord-Server](https://discord.gg/S8Xq7JwNgg)!
 [easy-map-change](reference/easy-map-change/)
 {% endcontent-ref %}
 
+{% content-ref url="reference/easy-gps/" %}
+[easy-gps](reference/easy-gps/)
+{% endcontent-ref %}
+
 <figure><img src=".gitbook/assets/logo_transparent.png" alt=""><figcaption></figcaption></figure>
