@@ -2,7 +2,7 @@
 
 ```lua
 Settings = {
-    Cooldown = 10000,
+    Cooldown = 10,
     Scale = {
         Distance = 30.0,
         Min = 0.3,
@@ -15,7 +15,7 @@ Settings = {
     Wait = 10,
     API = {
         DisplayEmoji = function (source, emoji, force, emojis)
-            return true
+            return #emojis < 10
         end,
         EmojiMenu = function (state)
             return true
