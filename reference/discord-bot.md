@@ -24,9 +24,7 @@ Invite the "No Brand Cars" discord bot [here](https://discord.com/oauth2/authori
 Make sure that the following IP addresses are allowed in the firewall to prevent timeouts
 {% endhint %}
 
-| Server        | IP            | Usage                         |
-| ------------- | ------------- | ----------------------------- |
-| HETZNER NBC-1 | 128.140.38.32 | POST requests to FiveM server |
+<table><thead><tr><th>Server</th><th width="176.33333333333331">IP</th><th>Usage</th></tr></thead><tbody><tr><td>HETZNER NBC-1</td><td>128.140.38.32</td><td>POST requests to FiveM server</td></tr></tbody></table>
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-04-18 234700.png" alt=""><figcaption><p>Timeout when performing an action</p></figcaption></figure>
 
