@@ -9,3 +9,11 @@ Replace your old ressource with the new one and make sure to check [settings.lua
 {% hint style="info" %}
 Updates for all our scripts are free of charge!
 {% endhint %}
+
+<details>
+
+<summary>Update 1.0.1</summary>
+
+Compatibilities with specific FiveM Artifact versions have been fixed.
+
+</details>
