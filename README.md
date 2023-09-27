@@ -22,4 +22,8 @@ Make sure to visit our [Discord-Server](https://discord.gg/S8Xq7JwNgg)!
 [share-love](reference/share-love/)
 {% endcontent-ref %}
 
+{% content-ref url="reference/debranding/" %}
+[debranding](reference/debranding/)
+{% endcontent-ref %}
+
 <figure><img src=".gitbook/assets/logo_transparent.png" alt=""><figcaption></figcaption></figure>

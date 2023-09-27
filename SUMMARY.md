@@ -28,6 +28,8 @@
   * [Settings](reference/share-love/settings.md)
   * [Fxmanifest](reference/share-love/fxmanifest.md)
   * [Update](reference/share-love/update.md)
+* [🚗 Debranding](reference/debranding/README.md)
+  * [Vehicles](reference/debranding/vehicles.md)
 * [Discord Bot](reference/discord-bot.md)
 * [Authentication server](reference/authentication-server.md)
 * [Check version](reference/check-version.md)
