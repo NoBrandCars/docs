@@ -69,7 +69,7 @@ Updates for all our scripts are free of charge!
 
 <summary>Update 1.0.1</summary>
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/rocketsoccer/update_1.png>)
 
 Performance improvement from 0.03 to 0.00 ms in idle (Outside [Maze Bank Arena](https://fivem.gabzv.com/package/5567774))
 

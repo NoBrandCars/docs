@@ -1,26 +1,26 @@
 # Maps
 
-| Enum                                    | Picture                                     |
-| --------------------------------------- | ------------------------------------------- |
-| **BASKETBALL**                          | ![](../../.gitbook/assets/image.png)        |
-| **DERBY**                               | ![](<../../.gitbook/assets/image (23).png>) |
-| **PAINTBALL**                           | ![](<../../.gitbook/assets/image (26).png>) |
-| **CONCERT**                             | ![](<../../.gitbook/assets/image (27).png>) |
-| **FASHION**                             | ![](<../../.gitbook/assets/image (4).png>)  |
-| **FAME\_OR\_SHAME**                     | ![](<../../.gitbook/assets/image (3).png>)  |
-| **WRESTLING**                           | ![](<../../.gitbook/assets/image (25).png>) |
-| **MMA**                                 | ![](<../../.gitbook/assets/image (1).png>)  |
-| **BOXING**                              | ![](<../../.gitbook/assets/image (17).png>) |
-| **CURLING**                             | ![](<../../.gitbook/assets/image (13).png>) |
-| [**ROCKET\_LEAGUE**](../rocket-soccer/) | ![](<../../.gitbook/assets/image (22).png>) |
-| **FOOTBALL**                            | ![](<../../.gitbook/assets/image (24).png>) |
-| **HOCKEY**                              | ![](<../../.gitbook/assets/image (2).png>)  |
-| **GOKART\_TRACK\_1**                    | ![](<../../.gitbook/assets/image (6).png>)  |
-| **GOKART\_TRACK\_2**                    | ![](<../../.gitbook/assets/image (20).png>) |
-| **TRACKMANIA\_TRACK\_1**                | ![](<../../.gitbook/assets/image (11).png>) |
-| **TRACKMANIA\_TRACK\_2**                | ![](<../../.gitbook/assets/image (18).png>) |
-| **TRACKMANIA\_TRACK\_3**                | ![](<../../.gitbook/assets/image (15).png>) |
-| **TRACKMANIA\_TRACK\_4**                | ![](<../../.gitbook/assets/image (16).png>) |
+| Enum                                    | Picture                                                  |
+| --------------------------------------- | -------------------------------------------------------- |
+| **BASKETBALL**                          | ![](../../.gitbook/assets/maps/BASKETBALL.png)           |
+| **DERBY**                               | ![](<../../.gitbook/assets/maps/DERBY.png>)              |
+| **PAINTBALL**                           | ![](<../../.gitbook/assets/maps/PAINTBALL.png>)          |
+| **CONCERT**                             | ![](<../../.gitbook/assets/maps/CONCERT.png>)            |
+| **FASHION**                             | ![](<../../.gitbook/assets/maps/FASHION.png>)            |
+| **FAME\_OR\_SHAME**                     | ![](<../../.gitbook/assets/maps/FAME_OR_SHAME.png>)      |
+| **WRESTLING**                           | ![](<../../.gitbook/assets/maps/WRESTLING.png>)          |
+| **MMA**                                 | ![](<../../.gitbook/assets/maps/MMA.png>)                |
+| **BOXING**                              | ![](<../../.gitbook/assets/maps/BOXING.png>)             |
+| **CURLING**                             | ![](<../../.gitbook/assets/maps/CURLING.png>)            |
+| [**ROCKET\_LEAGUE**](../rocket-soccer/) | ![](<../../.gitbook/assets/maps/ROCKET_LEAGUE.png>)      |
+| **FOOTBALL**                            | ![](<../../.gitbook/assets/maps/FOOTBALL.png>)           |
+| **HOCKEY**                              | ![](<../../.gitbook/assets/maps/HOCKEY.png>)             |
+| **GOKART\_TRACK\_1**                    | ![](<../../.gitbook/assets/maps/GOKART_TRACK_1.png>)     |
+| **GOKART\_TRACK\_2**                    | ![](<../../.gitbook/assets/maps/GOKART_TRACK_2.png>)     |
+| **TRACKMANIA\_TRACK\_1**                | ![](<../../.gitbook/assets/maps/TRACKMANIA_TRACK_1.png>) |
+| **TRACKMANIA\_TRACK\_2**                | ![](<../../.gitbook/assets/maps/TRACKMANIA_TRACK_2.png>) |
+| **TRACKMANIA\_TRACK\_3**                | ![](<../../.gitbook/assets/maps/TRACKMANIA_TRACK_3.png>) |
+| **TRACKMANIA\_TRACK\_4**                | ![](<../../.gitbook/assets/maps/TRACKMANIA_TRACK_4.png>) |
 
 {% hint style="info" %}
 The upper or lower case must not be observed

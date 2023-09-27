@@ -26,12 +26,13 @@ Make sure that the following IP addresses are allowed in the firewall to prevent
 
 <table><thead><tr><th>Server</th><th width="176.33333333333331">IP</th><th>Usage</th></tr></thead><tbody><tr><td>HETZNER NBC-1</td><td>128.140.38.32</td><td>POST requests to FiveM server</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-04-18 234700.png" alt=""><figcaption><p>Timeout when performing an action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/firewall.png" alt=""><figcaption><p>Timeout when performing an action</p></figcaption></figure>
 
 #### Permissions
 
 {% hint style="info" %}
 By default, users in the Discord server with administrator rights can use the commands.
 
-[To create / change your own permissions follow these instructions from Discord](https://support.discord.com/hc/en-us/articles/4644915651095-Command-Permissions)
+[To create / change your own permissions follow these instructions from Discord
+](https://support.discord.com/hc/en-us/articles/4644915651095-Command-Permissions)
 {% endhint %}
