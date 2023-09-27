@@ -88,7 +88,11 @@ _These two functions have to be set by yourself (e.g. xPlayer.getJob() == x)_
 
 {% tabs %}
 {% tab title="Sprite (3)" %}
+<div align="center">
+
 <figure><img src="https://docs.fivem.net/blips/radar_parachute.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 {% endtab %}
 
 {% tab title="Example (3)" %}
